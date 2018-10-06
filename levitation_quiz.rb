@@ -4,6 +4,7 @@ def levitation_quiz
 	loop do
 	 answer=gets.chomp
 	 break if answer=="Wingardium Leviosa"
-	 end  puts "you passed the quiz!"	  
+	 end 
+	 puts "you passed the quiz!"	  
 end
 
